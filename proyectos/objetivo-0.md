@@ -6,7 +6,7 @@ la línea con tu nick de GitHub (si lo has proporcionado). Si no lo has hecho,
 primero ponlo en la hoja de equivalencias y a continuación usa la línea con tus
 iniciales.
 
-| URL                                        | Versión | Alcanzado |
+| URL                                        | Versión | Alcanzado |https://github.com/shvtwp/cuidarDependencia/pull/1
 |--------------------------------------------|---------|-----------|
 | [Enlace de sergioae19](https://github.com/sergioae19/CalendarioSemanal/pull/1)|v.0.0.2 | |
 | https://github.com/danieeeld2/LogisticsRoutes/pull/1 | v0.0.1 |✓ |
@@ -27,7 +27,7 @@ iniciales.
 | https://github.com/diagmatrix/maybe-better-maybe-worse/pull/1 | v0.0.1 |✓ |
 | [Enlace de JaimeGM96](https://github.com/JaimeGM96/GestorTareas/pull/1) | v0.0.1 | |
 |[Enlace de JaviGP2002](https://github.com/javigp2002/LazyFood/pull/1)|v0.0.1 | ✓ |
-| <!-- Enlace de shvtwp --> | | |
+| [Enlace de shvtwp](https://github.com/shvtwp/cuidarDependencia/pull/1) |v0.0.1 | |
 | [Enlace de MarioGuisado](https://github.com/MarioGuisado/StudyTogether/pull/1) | v0.0.1 | ✓ |
 | <!-- Enlace de J P S --> | | |
 | https://github.com/Morad02/F1Data/pull/1 | v0.0.1 |✓ |
